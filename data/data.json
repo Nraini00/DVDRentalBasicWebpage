@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "movie_Name": "Mission: Cross",
+        "release_Date": "August 9, 2024",
+        "director": "Lee Myeong-hun",
+        "location": "South Korea",
+        "genre": "Action/Comedy"
+    },
+
+    {
+        "id": 2,
+        "movie_Name": "Dancing Village: The Curse Begins",
+        "release_Date": "April 11, 2024",
+        "director": "Kimo Stamboel",
+        "location": "Indonesia",
+        "genre": "Horror"
+    },
+
+    {
+        "id": 3,
+        "movie_Name": "A Quiet Place: Day One",
+        "release_Date": "June 27, 2024",
+        "director": "Michael Sarnoski",
+        "location": "UK",
+        "genre": "Horror/Sci-fi "
+    },
+
+    {
+        "id": 4,
+        "movie_Name": "Ghostbusters: Frozen Empire",
+        "release_Date": "March 22, 2024",
+        "director": "Gil Kenan",
+        "location": "USA",
+        "genre": "Comedy/Fantasy"
+    },
+
+    {
+        "id": 5,
+        "movie_Name": "Tarot",
+        "release_Date": "May 3, 2024",
+        "director": "Anna Halberg, Spenser Cohen",
+        "location": "USA",
+        "genre": "Horror/Comedy"
+    },
+
+    {
+        "id": 6,
+        "movie_Name": "Monkey Man",
+        "release_Date": "April 4, 2024",
+        "director": "Dev Patel",
+        "location": "Malaysia",
+        "genre": "Action/Thriller"
+    },
+
+    {
+        "id": 7,
+        "movie_Name": "The Instigators",
+        "release_Date": "August 2, 2024",
+        "director": "Doug Liman",
+        "location": "USA",
+        "genre": "Thriller/Comedy"
+    },
+
+    {
+        "id": 8,
+        "movie_Name": "Art of Love",
+        "release_Date": "March 14, 2024",
+        "director": "Recai Karagöz",
+        "location": "Turkish",
+        "genre": "Romance/Drama"
+    },
+
+    {
+        "id": 9,
+        "movie_Name": "Captain Miller",
+        "release_Date": "January 12, 2024",
+        "director": "Arun Matheswaran",
+        "location": "Indian",
+        "genre": "Action/Adventure"
+    },
+
+    {
+        "id": 10,
+        "movie_Name": "Upgraded",
+        "release_Date": "February 9, 2024",
+        "director": "Carlson Young",
+        "location": "USA",
+        "genre": "Comedy/Romance"
+    },
+
+    {
+        "id": 11,
+        "movie_Name": "One Fast Move",
+        "release_Date": "August 8, 2024",
+        "director": "Kelly Blatz",
+        "location": "USA",
+        "genre": "Action/Drama"
+    }
+
+]
